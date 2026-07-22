@@ -1,4 +1,4 @@
-# Smart Attendance System Using Face Recognition
+# Smart Attendance System Using Face Recognition 
 
 An AI-powered attendance management system that automatically marks student attendance using Face Recognition. The system detects and recognizes registered students through a webcam and records attendance efficiently.
 
